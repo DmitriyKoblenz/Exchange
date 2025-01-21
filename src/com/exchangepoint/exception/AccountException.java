@@ -2,7 +2,7 @@ package com.exchangepoint.exception;
 
 /**
  * Group: 52-1, "AIT Hi-tech team" GMBH
- * Author: Bogdan Fesenko
+ * Author: Dmitrii Pushkar
  * Date: 19-11-2024
  */
 /*
